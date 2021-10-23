@@ -1,1 +1,1 @@
-# streamlit-to-heroku-tutorial
+# streamlit run app.py
