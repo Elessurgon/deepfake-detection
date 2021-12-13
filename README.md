@@ -1,2 +1,2 @@
 # deepfake detection
-streamlit run app.py
+https://share.streamlit.io/elessurgon/deepfake-detection/app.py
